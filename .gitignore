@@ -1,0 +1,6 @@
+.idea/
+db.sqlite3
+note/__pycache__/
+notesite/__init__.pyc
+notesite/__pycache__/
+notesite/settings.pyc
